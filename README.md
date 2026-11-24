@@ -14,6 +14,15 @@ Written for myself, shared in case someone else needs it too.
 
 写代码和用 GitHub 时反复遇到的英文词，附中文解释。给自己查的，顺便公开。
 
+### `WINDOWS-TROUBLESHOOTING.md`
+
+Two real Windows 11 problems: desktop icons disappearing, and an Electron app's
+main process crashing. Each one written up as symptom → what I checked →
+root cause → fix, with the actual PowerShell commands.
+
+Windows 11 上真遇到的两个故障：桌面图标消失、Electron 应用主进程崩溃。
+每篇都按「症状 → 我查了什么 → 根因 → 怎么解决」写，附上实际用过的 PowerShell 命令。
+
 ### `batch_rename.py`
 
 Replace spaces in file names with underscores.
